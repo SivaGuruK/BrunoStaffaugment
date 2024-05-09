@@ -30,7 +30,7 @@ const Footer = () => {
               "What’s the guarantee  that I will be satisfied with the hired talent?",
               "Can I hire multiple talents at once?",
               "Why should I not go to an agency directly?",
-              "Who can help me pick a right skillset<br/>and duration for me?",
+              "Who can help me pick a right skillset and duration for me?",
             ].map((question, index) => (
               <div
                 key={question}
